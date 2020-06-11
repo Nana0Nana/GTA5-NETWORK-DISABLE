@@ -1,5 +1,6 @@
 @echo off
 chcp 65001
+
 :1detect
 
 echo 正在自动查找GTA5路径...
